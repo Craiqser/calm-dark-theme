@@ -1,1 +1,3 @@
-# calm-dark-theme
+# README
+
+## Craiqser calm dark theme for VS Code.

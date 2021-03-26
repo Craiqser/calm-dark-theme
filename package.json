@@ -1,0 +1,26 @@
+{
+	"name": "craiqser-calm-dark",
+	"displayName": "Craiqser calm dark",
+	"description": "Craiqser calm dark theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Craiqser calm dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Craiqser calm dark-color-theme.json"
+			}
+		]
+	},
+	"publisher": "Craiqser",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Craiqser/calm-dark-theme.git"
+	}
+}
